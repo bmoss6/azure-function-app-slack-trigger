@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace slackTrig
 {
-    public static class Function1
+    public static class SlackTrigger_EventHub
     {
         [FunctionName("Function1")]
         public static async Task<IActionResult> Run(
